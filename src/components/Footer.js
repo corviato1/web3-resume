@@ -9,7 +9,7 @@ function Footer() {
         <img className="abouta" src="images/about-me.jpg" />
         <p className="footer-subscription-heading">Bio</p>
         <p className="footer-subscription-text">
-          Hello!  My name is Mike Newton; a swimmer in the realm of agricultural engineering who spends my free time exploring, developing, supporting, evangelizing Web3 technology, and a fresh resident of Surprise Arizona, from Berkeley California.
+          Hello!  My name is Mike Newton; a swimmer in the realm of agricultural engineering who spends his free time exploring, developing, supporting, and evangelizing Web3 technology.  I am also a fresh resident of Surprise Arizona, from Berkeley California.
           <br></br>
           <br></br>As an adolescent I excelled in exploring life, attaining the honor of Eagle Scout within the Boy Scouts of America, and maximized my life experiences and perception while attending a prestigious military school.   
           <br></br>

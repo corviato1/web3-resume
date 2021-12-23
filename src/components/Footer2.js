@@ -24,7 +24,7 @@ function Footer2() {
           <div class="footer-link-items">
             <h2>Web3</h2>
             <Link to="/services">IPFS user and builder</Link>
-            <Link to="/services">Miner of several chains; CPU, GPU, Storage</Link>
+            <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC</Link>
             <Link to="/services">Inventory Tracking and Deployment</Link>
             <Link to="/services">Windows & Linux</Link>
             <Link to="/services">DApp editor & maker</Link>

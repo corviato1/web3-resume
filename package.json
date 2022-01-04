@@ -2,6 +2,12 @@
   "name": "navbar-dropdown-v1",
   "home": "./",
   "version": "0.1.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"  
+}
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

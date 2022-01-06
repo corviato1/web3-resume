@@ -46,6 +46,7 @@ function Footer2() {
             <Link to="/services">Work experience greater than a decade</Link>
             <Link to="/services">Bridging agriculture projects with Web3 DApps in as many ways as possible</Link>
           </div>
+         </div>
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>Information Technology</h2>

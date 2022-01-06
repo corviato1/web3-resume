@@ -46,6 +46,7 @@ function Footer2() {
             <h2>Information Technology</h2>
             <Link to="/services">Computer Builder</Link>
             <Link to="/services">Data backups</Link>
+            <Link to="/services">Make crypto educational contents and tutorials for mining and DApps</Link>  
             <Link to="/services">Video Conferencing</Link>
             <Link to="/services">Remote troubleshooting</Link>
             <Link to="/services">Javascript, HTML, CSS</Link>

@@ -11,9 +11,9 @@ function Footer2() {
           Skills and Hobbies
         </p>
         <div className="input-areas"></div>
-        <ul>Frequently encountered software:</ul>
+        <ul></ul>
         <p>
-          Zoom, Google Suite, Adobe Suite, Slack, Autocad, Visual Studios
+         
         </p>
         <br></br>
         <br></br>
@@ -44,7 +44,7 @@ function Footer2() {
             <Link to="/services">Intermediate builder of Aquaponics</Link>
             <Link to="/services">Explorer of better techniques</Link>
             <Link to="/services">Work experience greater than a decade</Link>
-            <Link to="/services"></Link>
+            <Link to="/services">Bridging agriculture projects with Web3 DApps in as many ways as possible</Link>
           </div>
         </div>
         <div className="footer-link-wrapper">

@@ -31,7 +31,7 @@ function Footer2() {
             <Link to="/services">Early adopter/developer (including airdrops) of Ravencoin</Link>   
             <Link to="/services">IPFS user and developer/Link>
             <Link to="/services">Creator of NFT featured at 2nd annual meetup</Link>
-            <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC</Link>
+            <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC starting in early 2018</Link>
             <Link to="/services">Windows & Linux</Link>
             <Link to="/services">DApp developer & maker</Link>
           </div>
@@ -51,25 +51,21 @@ function Footer2() {
           <div class="footer-link-items">
             <h2>Information Technology</h2>
             <Link to="/services">Computer Builder</Link>
-            <Link to="/services">Ticketing Systems</Link>
-            <Link to="/services">Customer Service</Link>
             <Link to="/services">Data backups</Link>
             <Link to="/services">Video Conferencing</Link>
-            <Link to="/services">Remote troubleshhoting</Link>
-            <Link to="/services">Javascript, Solidity, HTML, CSS</Link>
-            <Link to="/services">Helpdesk and Software Support</Link>
+            <Link to="/services">Remote troubleshooting</Link>
+            <Link to="/services">Javascript, HTML, CSS</Link>
             <Link to="/services">Servers and Workstations</Link>
           </div>
           <div class="footer-link-items">
             <h2>Misc Skills</h2>
             <Link to="/services">Multi-Tasking</Link>
-            <Link to="/services">Cryptocurrency Mining</Link>
             <Link to="/services">Googling</Link>
             <Link to="/services">Youtubing</Link>
-            <Link to="/services"></Link>
+            <Link to="/services">Customer Service</Link>
             <Link to="/services">Cooking</Link>
             <Link to="/services">Tinkering</Link>
-            <Link to="/services">Home improvments</Link>
+            <Link to="/services">Home improvements</Link>
           </div>
         </div>
       </div>

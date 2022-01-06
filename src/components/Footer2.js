@@ -37,7 +37,7 @@ function Footer2() {
           </div>
           <div class="footer-link-items">
             <h2>Agricultural</h2>
-            <Link to="/services">Designer and holder of 3 utilty patents</Link>
+            <Link to="/services">Designer and holder of three utilty patents</Link>
             <Link to="/services">Aided in many crops, seed to harvest</Link>
             <Link to="/services">Understanding of Pest Management</Link>
             <Link to="/services">Strong understanding of Hydroponics</Link>
@@ -46,7 +46,6 @@ function Footer2() {
             <Link to="/services">Work experience greater than a decade</Link>
             <Link to="/services">Bridging agriculture projects with Web3 DApps in as many ways as possible</Link>
           </div>
-        </div>
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>Information Technology</h2>

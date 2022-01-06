@@ -75,7 +75,6 @@ function Footer2() {
           <div class="footer-logo"></div>
 
           <div class="social-icons"></div>
-        </div>
       </section>
     </div>
   );

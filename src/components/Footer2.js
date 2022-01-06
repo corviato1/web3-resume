@@ -30,7 +30,7 @@ function Footer2() {
             <Link to="/services">Featured on several C3 Media Podcasts, including ones with core devs of Ravencoin, and other chains</Link>
             <Link to="/services">Early adopter/developer (including airdrops) of Ravencoin</Link>   
             <Link to="/services">IPFS user and developer</Link>
-            <Link to="/services">Creator of NFT featured at 2nd annual meetup</Link>
+            <Link to="/services">Creator of NFT featured at 2nd annual Ravencoin meetup</Link>
             <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC starting in early 2018</Link>
             <Link to="/services">Windows & Linux</Link>
             <Link to="/services">DApp developer & maker</Link>

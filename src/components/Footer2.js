@@ -11,12 +11,6 @@ function Footer2() {
           Skills and Hobbies
         </p>
         <div className="input-areas"></div>
-        <ul></ul>
-        <p>
-         
-        </p>
-        <br></br>
-        <br></br>
       </section>
 
       <div class="footer-links">

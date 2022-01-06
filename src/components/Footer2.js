@@ -25,13 +25,13 @@ function Footer2() {
             <h2>Web3</h2>
             <Link to="/services">IPFS user and builder</Link>
             <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC</Link>
-            <Link to="/services">Inventory Tracking and Deployment</Link>
             <Link to="/services">Windows & Linux</Link>
             <Link to="/services">DApp editor & maker</Link>
-            <Link to="/services">Active Directory and Domains</Link>
+            <Link to="/services">Filecoin Space Race community advocate</Link>
             <Link to="/services">Filecoin genesis(Pre Space Race & Space Race) miner</Link>
+            <Link to="/services">Fought for equal air drop for small miners that led to second fellowship opportunity</Link>
+             <Link to="/services"></Link>
             <Link to="/services"></Link>
-            <Link to="/services">Servers and Workstations</Link>
           </div>
           <div class="footer-link-items">
             <h2>Agricultural</h2>
@@ -56,7 +56,7 @@ function Footer2() {
             <Link to="/services">Remote troubleshhoting</Link>
             <Link to="/services">Javascript, Solidity, HTML, CSS</Link>
             <Link to="/services">Helpdesk and Software Support</Link>
-            <Link to="/services">Printers and Scanners</Link>
+            <Link to="/services">Servers and Workstations</Link>
           </div>
           <div class="footer-link-items">
             <h2>Misc Skills</h2>
@@ -64,7 +64,7 @@ function Footer2() {
             <Link to="/services">Cryptocurrency Mining</Link>
             <Link to="/services">Googling</Link>
             <Link to="/services">Youtubing</Link>
-            <Link to="/services">Limitless Patience</Link>
+            <Link to="/services"></Link>
             <Link to="/services">Cooking</Link>
             <Link to="/services">Tinkering</Link>
             <Link to="/services">Home improvments</Link>

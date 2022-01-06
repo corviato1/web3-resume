@@ -23,15 +23,17 @@ function Footer2() {
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>Web3</h2>
-            <Link to="/services">IPFS user and builder</Link>
-            <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC</Link>
-            <Link to="/services">Windows & Linux</Link>
-            <Link to="/services">DApp editor & maker</Link>
+            <Link to="/services">Early adopter of ENS</Link>   
             <Link to="/services">Filecoin Space Race community advocate</Link>
             <Link to="/services">Filecoin genesis(Pre Space Race & Space Race) miner</Link>
             <Link to="/services">Fought for equal air drop for small miners that led to second fellowship opportunity</Link>
-             <Link to="/services"></Link>
-            <Link to="/services"></Link>
+            <Link to="/services">Featured on several C3 Media Podcasts, including ones with core devs of Ravencoin, and other chains</Link>
+            <Link to="/services">Early adopter/developer (including airdrops) of Ravencoin</Link>   
+            <Link to="/services">IPFS user and developer/Link>
+            <Link to="/services">Creator of NFT featured at 2nd annual meetup</Link>
+            <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC</Link>
+            <Link to="/services">Windows & Linux</Link>
+            <Link to="/services">DApp developer & maker</Link>
           </div>
           <div class="footer-link-items">
             <h2>Agricultural</h2>

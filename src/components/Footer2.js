@@ -67,17 +67,16 @@ function Footer2() {
             <Link to="/services">Cooking</Link>
             <Link to="/services">Tinkering</Link>
             <Link to="/services">Home improvements</Link>
-          </div>
+         </div>
         </div>
       </div>
       <section class="social-media">
         <div class="social-media-wrap">
           <div class="footer-logo"></div>
-
           <div class="social-icons"></div>
+        </div>
       </section>
     </div>
   );
 }
-
 export default Footer2;

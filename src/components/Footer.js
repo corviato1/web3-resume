@@ -25,7 +25,7 @@ function Footer() {
           After the realization that I can plant my digital flag and own my own digital space of the web, and more importantly gift it to others, I ran as fast as I could into that potential new reality.
           Then I found the InterPlanetary File System and my heart for the first time ever found love of a software.  If IPFS is the hill I die on, then it will be a life well spent.  The opportunity to truly own my own data on a decentralized peer to peer protocol and share it with the world is one of the most magical things in my opinion.  Over the years, I have built and tinkered with some DApps and public blockchains.  Nothing for income (other than mining), just to build and learn so that I may expand my horizons and share what I learn with others.
           <br></br>
-          <br></br>I am a firm believer in learning and teaching self sufficiency and self improvement in ourselves, and the world we live in.
+          <br></br>I am a firm believer in improving oneself, and the world we live in, by learning and teaching self sufficiency.
           <br></br>
           <br></br>As for my work life:
           My determination and patience are without limits.  I excel in team environments, while at the same time having dialed and maximized my productivity working on projects alone.  Remote work comes natural to me and a process that I thrive on.  One of my strengths is recognizing what project path works best at any given time: be it the soft and humorous touch, or the head down heavy grind.  I have an adept ability to know when to focus on the tree, and when to focus on the forest.  Among other things, I try to never waste a lesson the universe presents on my life journey. 

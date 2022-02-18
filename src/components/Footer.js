@@ -11,7 +11,7 @@ function Footer() {
         <p className="footer-subscription-text">
           Hello!  My name is Michael Newton.  Apart from agricultural engineering, I'm a swimmer in the web3 seas, spending my free time exploring, developing, supporting, and evangelizing Web3 technology.
           <br></br>
-          <br></br>As an adolescent I excelled in exploring life, attaining the honor of Eagle Scout within the Boy Scouts of America, and maximized my life experiences and perception while attending a prestigious military school.   
+          <br></br>As an adolescent I excelled in exploring life, attaining the honor of Eagle Scout within the Boy Scouts of America, maximized my life experiences and perception.
           <br></br>
           <br></br>As an adult, I held several jobs but only two career passions.
           The jobs I've held include the following: Home Depot, real estate support, and various agricultural jobs.

@@ -14,7 +14,7 @@ function Footer() {
           <br></br>As an adolescent I excelled in exploring life, attaining the honor of Eagle Scout within the Boy Scouts of America, maximized my life experiences and perception.
           <br></br>
           <br></br>As an adult, I held several jobs but only two career passions.
-          The jobs I've held include the following: Home Depot, real estate support, and various agricultural jobs.
+          Jobs I've held include the following: Home Depot, real estate support, and various agricultural jobs.
           These jobs have given me eight plus years of customer service experience which, among other things, improved both my technical and team building skills.
           <br></br>
           <br></br>My first life passion is building within the agricultural industry.

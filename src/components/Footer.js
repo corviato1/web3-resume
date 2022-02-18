@@ -27,7 +27,7 @@ function Footer() {
           <br></br>
           <br></br>I am a firm believer that learning, and then teaching, self sufficiency is one of the best ways to improve oneself and the world we live in.
           <br></br>
-          <br></br>As for my work life:
+          <br></br>As for work life:
           My determination and patience are without limits.  I excel in team environments, while at the same time having dialed and maximized my productivity working on projects alone.  Remote work comes natural to me and a process that I thrive on.  One of my strengths is recognizing what project path works best at any given time: be it the soft and humorous touch, or the head down heavy grind.  I have an adept ability to know when to focus on the tree, and when to focus on the forest.  Among other things, I try to never waste a lesson the universe presents on my life journey. 
           <br></br>
           <br></br>Current favorite song = <a href="https://www.youtube.com/watch?v=3sCbuOO7YqY" target="_blank">EVERYTHING'S A SCAM</a>

@@ -34,7 +34,7 @@ function Footer() {
           <br></br>Current mantra = <a href="https://www.urbandictionary.com/define.php?term=Web3" target="_blank">Web3</a> or bust
           <br></br>
           Contact info:<br></br>
-          <br></br> email: michaelnewton@cox.net <br></br>
+          <br></br> email: admin@corviato.com <br></br>
           <br></br>phone: 949-463-4550<br></br>
           <br></br>
           slack: @Mike

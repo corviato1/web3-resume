@@ -4,7 +4,7 @@ import CardItem from "./CardItem";
 import CardItem2 from "./CardItem2";
 import CardItem3 from "./CardItem3";
 import CardItem4 from "./CardItem4";
-import CardItem4 from "./CardItem5";
+import CardItem5 from "./CardItem5";
 
 function Cards() {
   return (

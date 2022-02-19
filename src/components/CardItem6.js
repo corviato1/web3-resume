@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-function CardItem5(props) {
+function CardItem6(props) {
   return (
     <>
       <li className="cards__item">

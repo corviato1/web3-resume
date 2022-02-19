@@ -34,11 +34,17 @@ function Cards() {
               text="A Cypherpunk's Manifesto"
               path="https://ipfs.io/ipfs/QmYPTbT6Q1aVCsekE8ZzfjJu9h9gjd4oTswHLJ6JBAyfku"
             />
+              <ul className="cards__items">
             <CardItem5
               src="images/links-to-learn-my-youtube.jpg"
               text="Vids I Made"
               path="https://www.youtube.com/channel/UCN55qRrQl-UIR-u36mx6g0A"
             />    
+            <CardItem5
+              src="images/links-to-learn-ipfs.jpg"
+              text="IPFS (Web3) Tools"
+              path="https://github.com/ipfs/awesome-ipfs"
+            />
           </ul>
         </div>
       </div>

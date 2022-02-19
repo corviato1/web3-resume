@@ -42,10 +42,10 @@ function Cards() {
               text="Vids I Made"
               path="https://www.youtube.com/channel/UCN55qRrQl-UIR-u36mx6g0A"
             />    
-            <CardItem5
-              src="images/links-to-learn-ipfs.jpg"
-              text="IPFS (Web3) Tools"
-              path="https://github.com/ipfs/awesome-ipfs"
+            <CardItem6
+              src="images/links-to-learn-internet-archive.jpg"
+              text="Internet Archive"
+              path="https://archive.org/about/"
             />
           </ul>
         </div>

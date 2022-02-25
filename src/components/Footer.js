@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="footer-container">
       <section className="footer-subscription">
-        <img className="abouta" src="images/about-me.jpg" />
+        <img className="about" src="images/about-me.jpg" />
         <p className="footer-subscription-heading">Bio</p>
         <p className="footer-subscription-text">
           Hello!  My name is Michael Newton.  Apart from agricultural engineering, I'm an explorer of the web3 seas, spending my free time exploring, developing, supporting, and evangelizing Web3 technology.

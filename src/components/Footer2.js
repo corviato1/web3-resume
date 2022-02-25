@@ -23,50 +23,50 @@ function Footer2() {
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>Web3</h2>
-            <Link to="/services">Early adopter of ENS</Link>   
-            <Link to="/services">Filecoin Space Race community advocate</Link>
-            <Link to="/services">Filecoin genesis(Pre Space Race & Space Race) miner</Link>
-            <Link to="/services">Fought for equal air drop for small miners that led to second fellowship opportunity</Link>
-            <Link to="/services">Featured on several C3 Media Podcasts, including ones with core devs of Ravencoin, and other chains</Link>
-            <Link to="/services">Early adopter/developer (including airdrops) of Ravencoin</Link>   
-            <Link to="/services">IPFS user and developer</Link>
-            <Link to="/services">Creator of NFT featured at 2nd annual Ravencoin meetup</Link>
-            <Link to="/services">Miner of several chains; CPU, GPU, Storage, & ASIC starting in early 2018</Link>
-            <Link to="/services">Windows & Linux</Link>
-            <Link to="/services">DApp developer & maker</Link>
+            <Link to="/about">Early adopter of ENS</Link>   
+            <Link to="/about">Filecoin Space Race community advocate</Link>
+            <Link to="/about">Filecoin genesis(Pre Space Race & Space Race) miner</Link>
+            <Link to="/about">Fought for equal air drop for small miners that led to second fellowship opportunity</Link>
+            <Link to="/about">Featured on several C3 Media Podcasts, including ones with core devs of Ravencoin, and other chains</Link>
+            <Link to="/about">Early adopter/developer (including airdrops) of Ravencoin</Link>   
+            <Link to="/about">IPFS user and developer</Link>
+            <Link to="/about">Creator of NFT featured at 2nd annual Ravencoin meetup</Link>
+            <Link to="/about">Miner of several chains; CPU, GPU, Storage, & ASIC starting in early 2018</Link>
+            <Link to="/about">Windows & Linux</Link>
+            <Link to="/about">DApp developer & maker</Link>
           </div>
           <div class="footer-link-items">
             <h2>Agricultural</h2>
-            <Link to="/services">Designer and holder of three utility patents</Link>
-            <Link to="/services">Aided in many crops, seed to harvest</Link>
-            <Link to="/services">Understanding of Pest Management</Link>
-            <Link to="/services">Strong understanding of Hydroponics</Link>
-            <Link to="/services">Intermediate builder of Aquaponics</Link>
-            <Link to="/services">Explorer of better techniques</Link>
-            <Link to="/services">Work experience greater than a decade</Link>
-            <Link to="/services">Bridging agriculture projects with Web3 DApps in as many ways as possible</Link>
+            <Link to="/about">Designer and holder of three utility patents</Link>
+            <Link to="/about">Aided in many crops, seed to harvest</Link>
+            <Link to="/about">Understanding of Pest Management</Link>
+            <Link to="/about">Strong understanding of Hydroponics</Link>
+            <Link to="/about">Intermediate builder of Aquaponics</Link>
+            <Link to="/about">Explorer of better techniques</Link>
+            <Link to="/about">Work experience greater than a decade</Link>
+            <Link to="/about">Bridging agriculture projects with Web3 DApps in as many ways as possible</Link>
           </div>
          </div>
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>Information Technology</h2>
-            <Link to="/services">Computer Builder</Link>
-            <Link to="/services">Data backups</Link>
-            <Link to="/services">Make crypto educational contents and tutorials for mining and DApps</Link>  
-            <Link to="/services">Video Conferencing</Link>
-            <Link to="/services">Remote troubleshooting</Link>
-            <Link to="/services">Javascript, HTML, CSS</Link>
-            <Link to="/services">Servers and Workstations</Link>
+            <Link to="/about">Computer Builder</Link>
+            <Link to="/about">Data backups</Link>
+            <Link to="/about">Make crypto educational contents and tutorials for mining and DApps</Link>  
+            <Link to="/about">Video Conferencing</Link>
+            <Link to="/about">Remote troubleshooting</Link>
+            <Link to="/about">Javascript, HTML, CSS</Link>
+            <Link to="/about">Servers and Workstations</Link>
           </div>
           <div class="footer-link-items">
             <h2>Misc Skills</h2>
-            <Link to="/services">Multi-Tasking</Link>
-            <Link to="/services">Googling</Link>
-            <Link to="/services">Youtubing</Link>
-            <Link to="/services">Customer Service</Link>
-            <Link to="/services">Cooking</Link>
-            <Link to="/services">Tinkering</Link>
-            <Link to="/services">Home improvements</Link>
+            <Link to="/about">Multi-Tasking</Link>
+            <Link to="/about">Googling</Link>
+            <Link to="/about">Youtubing</Link>
+            <Link to="/about">Customer Service</Link>
+            <Link to="/about">Cooking</Link>
+            <Link to="/about">Tinkering</Link>
+            <Link to="/about">Home improvements</Link>
          </div>
         </div>
       </div>

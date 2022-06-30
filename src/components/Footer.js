@@ -9,16 +9,15 @@ function Footer() {
         <img className="about" src="images/about-me.jpg" />
         <p className="footer-subscription-heading">Bio</p>
         <p className="footer-subscription-text">
-          Hello!  My name is Michael Newton.  Apart from agricultural engineering, I'm an explorer of the web3 seas, spending my free time exploring, developing, supporting, and evangelizing Web3 technology.
+          Hello! My name is Michael Newton. Among other things, my passions include; agricultural engineering, exploring new areas, YouTube University, building/experimenting with hardware and software, and everything web3.
           <br></br>
-          <br></br>As an adolescent I was encouraged to maximize my life experiences and always seek to gain new perspectives.  I also played several sports, and attained the rank of Eagle Scout within the Boy Scouts of America.
           <br></br>
-          <br></br>As an adult, I held several jobs but only two career passions.
-          Jobs I've held include the following: Home Depot, real estate support, and various agricultural jobs.
-          These jobs have given me eight plus years of customer service experience which, among other things, improved both my technical and team building skills.
+          As a kid, I was encouraged to maximize my life experiences and always seek to gain new perspectives. I also played several sports, and attained the rank of Eagle Scout within the Boy Scouts of America.
+          <br></br>
+          <br></br>As an adult, I held several jobs but only two career passions. Jobs I've held include the following: Home Depot, real estate support, and various agricultural jobs. These jobs have given me eight plus years of customer service experience which, among other things, improved both my technical and team building skills.
           <br></br>
           <br></br>My first life passion is building within the agricultural industry.
-          That passion has led to three utility patents that perfectly utilize indoor agriculture within confined spaces.  They are best leveraged when applied to cargo ship farms, and growing produce in Outer space.
+          That passion has led to three utility patents that perfectly utilize indoor agriculture within confined spaces.  They are best leveraged when applied to cargo ship farms, and growing produce in outer space.
           <br></br>
           <br></br>After falling in love with the production and logistics process of the agricultural industry, I found Web3.  Prior to that, I had no interest in technology as I was acutely aware that the vast majority of the people who use the web own none of it, including things they think they do.  Because of this, I wanted no part in the development of that world.  
           Enter my first real exposure to the internet of the people, ie; publicly secured blockchains, and open source swarm technology.
@@ -27,8 +26,7 @@ function Footer() {
           <br></br>
           <br></br>I'm a firm believer that learning, and then teaching, self sufficiency is one of the best ways to improve oneself and the world we live in.
           <br></br>
-          <br></br>As for work life:
-          My determination and patience are without limits.  I excel in team environments, while at the same time having dialed and maximized my productivity working on projects alone.  Remote work comes natural to me and a process that I thrive on.  One of my strengths is recognizing what project path works best at any given time: be it the soft and humorous touch, or the head down heavy grind.  I have an adept ability to know when to focus on the tree, and when to focus on the forest.  Among other things, I try to never waste a lesson the universe presents on my life journey. 
+          <br></br>As for work life, my determination and patience are without limits. I excel in team environments, and working on projects alone. Remote work comes natural to me and a process that I thrive on. One of my strengths is recognizing what project path works best at any given time: be it the soft and humorous touch, or the head down heavy grind. I have an adept ability to know when to focus on the tree, and when to focus on the forest. Among other things, I try to never waste a lesson the universe presents on my life journey. 
           <br></br>
           <br></br>Current favorite song = <a href="https://www.youtube.com/watch?v=3sCbuOO7YqY" target="_blank">EVERYTHING'S A SCAM</a>
           <br></br>Current mantra = <a href="https://www.urbandictionary.com/define.php?term=Web3" target="_blank">Web3</a> or bust

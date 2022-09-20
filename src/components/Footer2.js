@@ -60,6 +60,7 @@ function Footer2() {
           </div>
           <div class="footer-link-items">
             <h2>Misc Skills</h2>
+            <Link to="/about">Contract Management</Link>
             <Link to="/about">Multi-Tasking</Link>
             <Link to="/about">Googling</Link>
             <Link to="/about">Youtubing</Link>

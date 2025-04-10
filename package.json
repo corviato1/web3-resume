@@ -25,7 +25,7 @@
     "moment": "^2.29.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "3.4.1",
     "truffle": "^5.1.45",
     "truffle-hdwallet-provider-privkey": "^0.3.0",
